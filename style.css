@@ -1,0 +1,21 @@
+.calculator{
+    border: 1px solid black;
+    width: 15rem;
+    height: auto;
+    padding: 2rem;
+    position: absolute;
+    left: 40%;
+    top: 10%;
+    border-radius: 2px;
+}
+.input-field{
+    padding: 0.5rem;
+    border-radius: 3px;
+    width: 100%;
+    margin: 9px 0px 2rem 0px;
+}
+#calculate{
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    font-weight: bold;
+    float: right;
+}
